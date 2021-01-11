@@ -13,7 +13,7 @@ I have created two users by which you can login user1 and user2.
 Username : user1, Passwor: user1.
 Username : user2, Password : user2
 
-After login, you will see a screenasking the recepient user with whom you want to play and the number you want to send.
+After login, you will see a screen asking the recepient user with whom you want to play and the number you want to send.
 
 You can fill the form on both the browser windows and start playing.
 
