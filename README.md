@@ -6,7 +6,7 @@ Technical Description:
 
 App is created using Spring Boot. You can run the server by maven command : mvn spring-boot:run
 
-Then you have to open two separate windows in browser with the url : http://localhost:8080
+Then you have to open two separate browsers with the url : http://localhost:8080
 
 I have created two users by which you can login user1 and user2.
 
